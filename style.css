@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #323224!important;/* modified */
 }
 
 .container {
@@ -1036,11 +1036,15 @@ h4 {
     }
 }
 
-/* Ajout de code Css */
+/* Ajout de propriétés CSS */
 q {
     font-style: italic;
     font-size: 16px;
     color: grey;
     line-height: 1.9rem;
     font-weight: 500;
+}
+
+#bloc-7 h2 {
+    font-size: 18px;
 }
